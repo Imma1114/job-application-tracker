@@ -38,16 +38,16 @@ Add jobs, see their status, and view statistics at a glance. Supports **dark mod
 ## Screenshots
 
 **Dark Mode**  
-![Dashboard](screenshot-darkmode.png)  
+![Dashboard screenshots](screenshot-darkmode.png)  
 
 **Light Mode**  
-![Dashboard](screenshot-lightmode.png)  
+![Dashboard screenshots](screenshot-lightmode.png)  
 
 **Add Job Form**  
-![Dashboard](screenshot-add-job.png)  
+![Dashboard screenshots](screenshot-add-job.png)  
 
 **Applications List**  
-![Dashboard](screenshot-applications.png)  
+![Dashboard screenshots](screenshot-applications.png)  
 
 ---
 
