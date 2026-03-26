@@ -4,7 +4,7 @@ A simple, web-based dashboard to manage and track your job applications in one p
 
 ## Live Demo
 
-Check out the project live [here](https://immaculatemodise.github.io/job-application-tracker/).  
+Check out the project live [here](https://imma1114.github.io/job-application-tracker/).  
 
 
 ## Author
